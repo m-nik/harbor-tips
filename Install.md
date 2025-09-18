@@ -9,4 +9,7 @@ cd harbor
 cp harbor.yml.tmpl harbor.yml
 vi harbor.yml
 ./prepare
+docker compose up -d
 ```
+
+
